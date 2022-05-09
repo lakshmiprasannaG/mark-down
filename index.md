@@ -15,6 +15,8 @@ __Bold with underscores__
 
 __*Bold + Italic with underscores*__
 
+` Hilighter `
+
 * Eatables
   * Fruits
     * Apple
@@ -27,7 +29,7 @@ __*Bold + Italic with underscores*__
 >>> Die with memories, not dreams.
 
 ```js
-console.log('Syntax hilighting can be done');
+console.log('Code gets hilighted');
 ```
 
 > Link time
